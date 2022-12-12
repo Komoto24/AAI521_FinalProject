@@ -66,7 +66,6 @@ protobuf==3.19.4
 pyarrow==10.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycurl==7.45.1
 pydeck==0.8.0
 PyDispatcher==2.0.5
 pyee==9.0.4
