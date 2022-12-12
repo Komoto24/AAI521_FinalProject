@@ -21,7 +21,7 @@ constantly==15.1.0
 cssselect==1.1.0
 cycler==0.11.0
 daal4py==2021.7.0
-datashape==0.5.4
+datashape==0.5.2
 dnspython==2.2.1
 et-xmlfile==1.1.0
 flatbuffers==1.12
